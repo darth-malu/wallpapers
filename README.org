@@ -1,0 +1,10 @@
+#+title: my wallpapers 
+#+ATTR_HTML: :align center
+#+NAME:   fig:singed
+
+* current wallpaper
+
+* ++
+[[./jinx.png]]
+
+[[./death-of-senaca.jpg]]
